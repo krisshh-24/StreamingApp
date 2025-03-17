@@ -1,0 +1,26 @@
+{
+  "name": "streamyard",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/krisshh-24/OBS#readme",
+  "bugs": {
+    "url": "https://github.com/krisshh-24/OBS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisshh-24/OBS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
